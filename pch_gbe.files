@@ -1,0 +1,4 @@
+%defattr(644,root,root,755)
+/lib/modules/%2-%1
+/etc/depmod.d/pch_gbe.conf
+/usr/share/doc/kmod-pch_gbe/greylist.txt
